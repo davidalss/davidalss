@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/davidalss/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/david_Alss)
-
+[![Blog](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://linkr.bio/davidalss)
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalss&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia  
