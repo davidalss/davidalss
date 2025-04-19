@@ -1,4 +1,7 @@
-## 👋 Olá! Sou o David
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!!!,+MEU+NOME+É+David+Alisson;+Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas;+Focado+em+Desenvolvimento+Full-Stack;+Com+ênfase+em+Back-End;+Estou+estudando+tecnologias+como+Java,+C#,+SQL,+HTML,+CSS,+JavaScript;+Estou+buscando+crescer+como+Desenvolvedor+Back-End)](https://git.io/typing-svg)
+
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Foco em **Desenvolvimento Full-Stack**, com ênfase no **Back-End**  
@@ -80,3 +83,5 @@
 
 ✨ Obrigado por visitar meu perfil!  
 📌 Fique à vontade para explorar meus repositórios e entrar em contato.  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=footer"/>
