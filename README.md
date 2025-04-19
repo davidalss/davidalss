@@ -13,23 +13,18 @@
 
 ## 📊 Estatísticas
 
-<div style="display: inline-block; padding-right: 10px;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=davidalss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</div>
-
-<div style="display: inline-block;">
   <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
-<br><br>
 
 ## 🚀 Tecnologias que estou estudando
 
