@@ -15,19 +15,12 @@
 ---
 
 ## 📊 Estatísticas
-
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=davidalss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davidalss&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=1c1e26" alt="David Alisson github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalss&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1c1e26" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidalss&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
 
 ## 🚀 Tecnologias que estou estudando
 
