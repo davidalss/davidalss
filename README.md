@@ -6,7 +6,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Foco em **Desenvolvimento Full-Stack**, com ênfase no **Back-End**  
 🚀 Estudando tecnologias como:
-- Java • C# • SQL  
+- Java • C • SQL  
 - HTML • CSS • JavaScript  
 
 🔍 Buscando crescer como **Desenvolvedor Back-End**  
