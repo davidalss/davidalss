@@ -9,7 +9,8 @@
 - Java • C • SQL  
 - HTML • CSS • JavaScript  
 
-🔍 Buscando crescer como **Desenvolvedor Back-End**  
+🔍 Buscando crescer como **Desenvolvedor Back-End** 
+
 📚 Aqui compartilho meus **projetos**, **aprendizados** e minha **evolução** na área de tecnologia.
 
 ---
